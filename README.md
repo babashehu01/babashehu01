@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various back-end projects.<br>👯 I’m looking to collaborate on projects related to software engineering and web development.<br>🤝 I’m looking for help with optimizing the performance and scalability of web applications.<br>🌱 I’m currently learning different programming languages, algorithms, and software development methodologies.<br>💬 Ask me about software architecture, database design, or back-end development.<br>⚡ Fun fact I enjoy hiking and exploring nature during my free time.
+🔭 I’m currently working on various Full-Stack web projects.<br>👯 I’m looking to collaborate on projects related to software engineering and web development.<br>🤝 I’m looking for help with optimizing the performance and scalability of web applications.<br>🌱 I’m currently learning different programming languages, algorithms, and software development methodologies.<br>💬 Ask me about software architecture, database design, or full-stack development.<br>⚡ Fun fact: I enjoy hiking and exploring nature during my free time.
 
 
 ## 🌐 Socials:
